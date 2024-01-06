@@ -1,4 +1,4 @@
-# Cricket Team
+# RESTful API
 
 Given two files `app.js` and a database file `note.db` consisting a table `list`.
 
