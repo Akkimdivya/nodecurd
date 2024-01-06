@@ -126,6 +126,7 @@ Use `node app.js` to start node project
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+<<<<<<< HEAD
 # RESTful API
 
 Given two files `app.js` and a database file `note.db` consisting a table `list`.
@@ -254,3 +255,5 @@ Use `node app.js` to start node project
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+>>>>>>> origin/main
